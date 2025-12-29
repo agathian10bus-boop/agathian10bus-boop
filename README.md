@@ -1,6 +1,6 @@
 # Hi, I'm Agathian! 👋
 
-B.E. student in **AI/ML** from Tamil Nadu, building full-stack applications with **Node.js**, **MongoDB**, and **React**. Active in competitive programming on **Codeforces** & **CodeChef**.
+B.E. student in **AI/ML** from Tamil Nadu, building full-stack applications with **Node.js**, **MongoDB**, and **React**. Active in competitive programming on **Codeforces** , **CodeChef** and **LeetCode**.
 
 ## 🛠️ Tech Stack
 
