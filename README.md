@@ -27,8 +27,4 @@ B.E. student in **AI/ML** from Tamil Nadu, building full-stack applications with
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/)
 
----
-
-⚡ **Fun fact**: Hand Cricket enthusiast & passionate about problem-solving! 🏏
-
 *Let's build something amazing together!*
