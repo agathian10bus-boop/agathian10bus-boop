@@ -29,6 +29,6 @@ B.E. student in **AI/ML** from Tamil Nadu, building full-stack applications with
 
 ---
 
-⚡ **Fun fact**: Cricket enthusiast & passionate about problem-solving! 🏏
+⚡ **Fun fact**: Hand Cricket enthusiast & passionate about problem-solving! 🏏
 
 *Let's build something amazing together!*
